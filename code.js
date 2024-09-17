@@ -1,1 +1,1 @@
-console.log("hello js code");
+console.log("hello now i have changed its content inside the console log");
